@@ -1,0 +1,21 @@
+.feedbackText {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.goodText {
+  color: #2e7d32;
+}
+
+.neutralText {
+  color: #1976d2;
+}
+
+.badText {
+  color: #d32f2f;
+}
+
+.totalText {
+  color: black;
+}

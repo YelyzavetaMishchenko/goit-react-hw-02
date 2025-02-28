@@ -1,0 +1,38 @@
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border: 3px solid;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.good {
+  background-color: #a8e6a2;
+  border-color: #2e7d32;
+  color: #2e7d32;
+}
+
+.neutral {
+  background-color: #90caf9;
+  border-color: #1976d2;
+  color: #1976d2;
+}
+
+.bad {
+  background-color: #f48fb1;
+  border-color: #d32f2f;
+  color: #d32f2f;
+}
+
+.reset {
+  background-color: #ffeb3b;
+  border-color: #fbc02d;
+  color: #f57f17;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
